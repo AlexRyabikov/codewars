@@ -1,0 +1,11 @@
+SELECT
+  name AS product_name,
+  extract(year from date)::int AS year,
+  extract(month from date)::int AS month,
+  extract(day from date)::int AS day,
+  sum(price * count) AS total
+FROM sales_details sd
+JOIN sales s ON sd.sale_id = s.id
+JOIN products p ON sd.product_id = p.id
+GROUP BY name, rollup(year, month, day)
+ORDER BY product_name, year, month, day
