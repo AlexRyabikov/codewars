@@ -1,2 +1,0 @@
-def stray(arr):
-    return [numb for numb in arr if arr.count(numb) == 1][0]

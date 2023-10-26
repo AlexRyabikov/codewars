@@ -1,9 +1,0 @@
-WITH RECURSIVE f(n, fact) AS (
-  SELECT 0, 1::bigint
-  UNION all
-  SELECT n + 1, fact * (n + 1)
-  FROM f
-)
-SELECT n, fact
-FROM f
-LIMIT 17

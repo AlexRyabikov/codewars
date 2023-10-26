@@ -1,16 +1,11 @@
 <?
 /*
-Simple multiplication PHP Kata 8 kyu
 
-Description:
+DESCRIPTION:
 
 This kata is about multiplying a given number by eight if it is an even number and by nine otherwise.
 
-
 */
-
-
-/* Solution: */
 
 function simpleMultiplication($number) {
   if($number%2==0){
