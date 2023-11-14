@@ -1,6 +1,6 @@
 # Решенные задачи по SQL 
 
-## 8 kyi
+## 8 kyu
 
 1. [Adults only (SQL for Beginners #1).sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/8%20kyu/Adults%20only%20(SQL%20for%20Beginners%20%231).sql)
 1. [Beginner Series #1 School Paperwork.sql)](https://github.com/AlexRyabikov/codewars/blob/main/SQL/8%20kyu/Beginner%20Series%20%231%20School%20Paperwork.sql)
@@ -50,7 +50,7 @@
 1. [Third Angle of a Triangle.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/8%20kyu/Third%20Angle%20of%20a%20Triangle.sql)
 1. [Will you make it.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/8%20kyu/Will%20you%20make%20it.sql)
 
-## 7 kyi
+## 7 kyu
 
 1. [Alphabetical Addition.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/7%20kyu/Alphabetical%20Addition.sql)
 1. [BASICS Length based SELECT with LIKE.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/7%20kyu/BASICS%20Length%20based%20SELECT%20with%20LIKE.sql)
@@ -99,7 +99,7 @@
 1. [Sum of angles.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/7%20kyu/Sum%20of%20angles.sql)
 1. [Sum of odd numbers.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/7%20kyu/Sum%20of%20odd%20numbers.sql)
 
-## 6 kyi
+## 6 kyu
 
 1. [Analyzing the sales by product and date.sql](https://github.com//AlexRyabikov/codewars/blob/main/SQL/6%20kyu/Analyzing%20the%20sales%20by%20product%20and%20date.sql)
 1. [Calculating Batting Average.sql](https://github.com//AlexRyabikov/codewars/blob/main/SQL/6%20kyu/Calculating%20Batting%20Average.sql)
@@ -125,7 +125,7 @@
 1. [SQL Regex AlphaNumeric Split.sql](https://github.com//AlexRyabikov/codewars/blob/main/SQL/6%20kyu/SQL%20Regex%20AlphaNumeric%20Split.sql)
 1. [Subqueries master.sql](https://github.com//AlexRyabikov/codewars/blob/main/SQL/6%20kyu/Subqueries%20master.sql)
 
-## 5 kyi
+## 5 kyu
 
 1. [Calculating Running Total.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/5%20kyu/Calculating%20Running%20Total.sql)
 1. [Count Weekdays.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/5%20kyu/Count%20Weekdays.sql)
