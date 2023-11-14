@@ -126,3 +126,13 @@
 1. [Subqueries master.sql](https://github.com//AlexRyabikov/codewars/blob/main/SQL/6%20kyu/Subqueries%20master.sql)
 
 ## 5 kyi
+
+1. [Calculating Running Total.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/5%20kyu/Calculating%20Running%20Total.sql)
+1. [Count Weekdays.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/5%20kyu/Count%20Weekdays.sql)
+1. [Counting overlapping events.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/5%20kyu/Counting%20overlapping%20events.sql)
+1. [Enumerate consecutive runs.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/5%20kyu/Enumerate%20consecutive%20runs.sql)
+1. [Restoring from history.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/5%20kyu/Restoring%20from%20history.sql)
+1. [SQLonacci sequence.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/5%20kyu/SQLonacci%20sequence.sql)
+1. [Searching for terminal nodes.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/5%20kyu/Searching%20for%20terminal%20nodes.sql)
+1. [Using LATERAL JOIN To Get Top N per Group.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/5%20kyu/Using%20LATERAL%20JOIN%20To%20Get%20Top%20N%20per%20Group.sql)
+1. [Vector addition.sql](https://github.com/AlexRyabikov/codewars/blob/main/SQL/5%20kyu/Vector%20addition.sql)
