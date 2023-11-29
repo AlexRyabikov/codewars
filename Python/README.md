@@ -421,6 +421,7 @@
 1. [Delete occurrences of an element if it occurs more than n times](https://github.com/AlexRyabikov/codewars/blob/main/Python/6%20kyu/Delete%20occurrences%20of%20an%20element%20if%20it%20occurs%20more%20than%20n%20times.py)
 1. [Who likes it](https://github.com/AlexRyabikov/codewars/blob/main/Python/6%20kyu/Who%20likes%20it.py)
 1. [Break camelCase](https://github.com/AlexRyabikov/codewars/blob/main/Python/6%20kyu/Break%20camelCase.py)
+1. [Multiples of 3 or 5](https://github.com/AlexRyabikov/codewars/blob/main/Python/6%20kyu/Multiples%20of%203%20or%205.py)
 
 ## 4 kyu
 
